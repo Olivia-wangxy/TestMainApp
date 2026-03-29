@@ -1,0 +1,3 @@
+[submodule "android-commonui"]
+	path = android-commonui
+	url = https://github.com/Olivia-wangxy/TestUIAPP.git
